@@ -1,10 +1,10 @@
 ## Instalação
 
 Você precisará baixar e instalar o Python, linguagem de programação.
-Baixe a última versão pelo [link]( https://www.python.org/downloads/). 
-No processo de instalação, marque a opção "Add Python to PATH".
-Baixe o conteudo deste repositorio.
-Abra o CMD (Windows + R -> cmd -> Enter) e execute os comandos abaixo:
+\Baixe a última versão pelo [link]( https://www.python.org/downloads/). 
+\No processo de instalação, marque a opção "Add Python to PATH".
+\Baixe o conteudo deste repositorio.
+\Abra o CMD (Windows + R -> cmd -> Enter) e execute os comandos abaixo:
 ```
 pip install pyautogui
 pip install pillow
