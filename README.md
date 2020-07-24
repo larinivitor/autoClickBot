@@ -10,13 +10,14 @@ pip install pyautogui
 pip install pillow
 pip install pywin32
 ```
-Antes do próximo passo, tenha certeza que seu lol esta em modo janela!
+Antes do próximo passo, tenha certeza que seu lol esta em modo janela!<br/>
 Vá na pasta onde esta os arquivos baixados, clique em arquivo -> abrir o Windows PowerShell, digite o comando a baixo:
 ```
 python mouse.py
 ```
-Esse programa mostra as coordenadas do seu mouse e usaremos o dados aqui informados para configurar o programa.
-Abra o arquivo Tokens.py com algum editor de texto e configure as coordenadas que estão na primeira parte do arquivo, que vão de "xProcurarPartida" até "yPixelDesktop". Basta você colocar o mouse em cima do local indicado e atualizar as coordenadas do arquivo Tokens.py, de acordo com seu computador.
+Esse programa mostra as coordenadas do seu mouse e usaremos o dados aqui informados para configurar o programa.<br/>
+Abra o arquivo Tokens.py com algum editor de texto e configure as coordenadas que estão na primeira parte do arquivo, que vão de "xProcurarPartida" até "yPixelDesktop".<br/>
+Basta você colocar o mouse em cima do local indicado e atualizar as coordenadas do arquivo Tokens.py, de acordo com seu computador.<br/>
 Salve o arquivo. Pronto, configurado!
 
 ## Execução
